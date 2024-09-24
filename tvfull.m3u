@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 01" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA 01
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1277
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 02" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA 02
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1278
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 03" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA 03
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1279
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 04" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA 04
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1280
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 05" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA 05
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1281
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 06" tvg-logo="" group-title="A FAZENDA 2024",A FAZENDA 06
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1282
+#EXTINF:-1 tvg-id="" tvg-name="frandtest" tvg-logo="" group-title="A FAZENDA 2024",frandtest
+http://authxplus-2.xyz:2082/Tourobox1-a0XKpLVUjZ/x1RCLfEYZL/1283
+
 #EXTINF:-0,Discovery Home & Health lg
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1021
 #EXTINF:-0,Discovery Home & Health lg2
